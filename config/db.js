@@ -1,5 +1,5 @@
 module.exports = {
-  url : "mongodb://test1:27017/markodb"
+  url : "mongodb://test2:27017/markodb"
   
 
   
