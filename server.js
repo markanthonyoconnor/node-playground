@@ -1,6 +1,4 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/markodb";
-
 const express        = require('express');
 const bodyParser     = require('body-parser');
 const db             = require('./config/db');
